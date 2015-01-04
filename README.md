@@ -12,7 +12,8 @@ Software applications, or more commonly known as “apps”, have become ubiquit
 #Development Status
 
 We are version 0.1. 
-An alpha version of the course was offered [Fall 2014 @ Chapman University] (https://github.com/ChapmanCPSC370/)
+An alpha version of the course was offered [Fall 2014 @ Chapman University] (https://github.com/lancefluger/OSS-In-the-Classroom/blob/master/CourseOutline.md) Projects seen [here]
+(https://github.com/ChapmanCPSC370/)
 
 # Ways You Can Contribute
 
