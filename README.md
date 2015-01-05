@@ -3,6 +3,9 @@ OSS-In-the-Classroom
 
 Class materials for offering an Open Source Development course -- completely free and transparent
 
+# Mission Statement
+
+To bring the creation of new open source projects and the continued contribution of existing oss projects into the classroom where students can learn while making an immediate impact.
 
 # Background
 
