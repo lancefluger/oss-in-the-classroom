@@ -1,4 +1,4 @@
-OSS-In-the-Classroom
+OSS-In-The-Classroom
 ====================
 
 Class materials for offering an Open Source Development course -- completely free and transparent
