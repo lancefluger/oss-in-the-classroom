@@ -36,5 +36,5 @@ We need your help! Whether you're an educator, adminstrator, or professional we 
 
 # License
 
-OSS in the classroom materials are all MIT Licensed
+OSS in the classroom materials are under [Creative Commons license] (https://github.com/lancefluger/oss-in-the-classroom/blob/master/CourseOutline.md)
 
